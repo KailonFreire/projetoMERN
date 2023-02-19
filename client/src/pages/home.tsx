@@ -8,6 +8,7 @@ import {
   PropertyCard,
   TopAgent,
 } from 'components';
+import AllProperties from './all-properties';
 
 const home = () => {
   return (
