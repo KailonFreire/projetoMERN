@@ -26,8 +26,8 @@ const Form = ({type, register, handleSubmit, handleImageChange, formLoading, onF
             <FormHelperText sx=
               {{fontWeigth: 500, 
                 margin: '10px 0', 
-              fontSize: 16, 
-              color: '#11142d'
+                fontSize: 16, 
+                color: '#11142d'
               }}>
               Enter property
               </FormHelperText>
