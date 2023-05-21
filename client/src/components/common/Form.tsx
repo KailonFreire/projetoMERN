@@ -64,7 +64,7 @@ const Form = ({type, register, handleSubmit, handleImageChange, formLoading, onF
                 padding: 10, 
                 color: '#919191'
               }}
-              {...register('description', {required:true})}
+              {...register('description',   {required:true})}
             />
           </FormControl>
           

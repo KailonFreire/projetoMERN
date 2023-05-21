@@ -86,7 +86,7 @@ function App() {
         });
       }
 
-      return Promise.resolve();
+      return Promise.resolve(); 
     },
     checkError: () => Promise.resolve(),
     checkAuth: async () => {
